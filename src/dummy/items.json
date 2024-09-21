@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Wireless Mouse",
+      "description": "A compact wireless mouse for everyday use.",
+      "quantity": 100,
+      "price": 899
+    },
+    {
+      "id": "2",
+      "name": "Mechanical Keyboard",
+      "description": "A mechanical keyboard with customizable RGB lighting.",
+      "quantity": 200,
+      "price": 2999
+    },
+    {
+      "id": "3",
+      "name": "HD Webcam",
+      "description": "An HD webcam for high-quality video calls.",
+      "quantity": 150,
+      "price": 2499
+    },
+    {
+      "id": "4",
+      "name": "USB-C Hub",
+      "description": "A multi-port USB-C hub for connecting multiple devices.",
+      "quantity": 75,
+      "price": 1599
+    },
+    {
+      "id": "5",
+      "name": "Portable Charger",
+      "description": "A slim portable charger for charging devices on the go.",
+      "quantity": 50,
+      "price": 1299
+    },
+    {
+      "id": "6",
+      "name": "Noise-Cancelling Headphones",
+      "description": "Over-ear headphones with active noise cancellation.",
+      "quantity": 80,
+      "price": 3499
+    },
+    {
+      "id": "7",
+      "name": "Smartphone Stand",
+      "description": "A versatile stand for smartphones and tablets.",
+      "quantity": 120,
+      "price": 799
+    },
+    {
+      "id": "8",
+      "name": "External Hard Drive",
+      "description": "A 1TB external hard drive for data storage.",
+      "quantity": 60,
+      "price": 4999
+    },
+    {
+      "id": "9",
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with rich sound quality.",
+      "quantity": 90,
+      "price": 1999
+    },
+    {
+      "id": "10",
+      "name": "Laptop Backpack",
+      "description": "A stylish backpack designed for laptops and accessories.",
+      "quantity": 40,
+      "price": 2499
+    },
+    {
+      "id": "11",
+      "name": "Fitness Tracker",
+      "description": "A waterproof fitness tracker with heart rate monitor.",
+      "quantity": 150,
+      "price": 2999
+    },
+    {
+      "id": "12",
+      "name": "Smartwatch",
+      "description": "A smartwatch with customizable watch faces and notifications.",
+      "quantity": 70,
+      "price": 3999
+    },
+    {
+      "id": "13",
+      "name": "Portable Bluetooth Keyboard",
+      "description": "A compact Bluetooth keyboard for tablets and smartphones.",
+      "quantity": 90,
+      "price": 1499
+    },
+    {
+      "id": "14",
+      "name": "Webcam Cover",
+      "description": "Privacy cover for your webcam to protect your privacy.",
+      "quantity": 200,
+      "price": 299
+    },
+    {
+      "id": "15",
+      "name": "Gaming Mouse Pad",
+      "description": "A large gaming mouse pad with a smooth surface.",
+      "quantity": 120,
+      "price": 799
+    },
+    {
+      "id": "16",
+      "name": "Wireless Charger",
+      "description": "A fast wireless charger for compatible devices.",
+      "quantity": 80,
+      "price": 1999
+    },
+    {
+      "id": "17",
+      "name": "Laptop Stand",
+      "description": "Adjustable laptop stand for improved ergonomics.",
+      "quantity": 100,
+      "price": 1599
+    },
+    {
+      "id": "18",
+      "name": "Digital Drawing Tablet",
+      "description": "A drawing tablet for artists and designers.",
+      "quantity": 50,
+      "price": 3999
+    },
+    {
+      "id": "19",
+      "name": "HDMI Cable",
+      "description": "High-speed HDMI cable for video and audio transfer.",
+      "quantity": 150,
+      "price": 499
+    },
+    {
+      "id": "20",
+      "name": "Power Bank",
+      "description": "A high-capacity power bank for charging multiple devices.",
+      "quantity": 60,
+      "price": 2499
+    }
+  ]
+}
